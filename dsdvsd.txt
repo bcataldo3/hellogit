@@ -1,0 +1,35 @@
+[33mcommit 12de4af1fe262ee3cdf66ec512b7af14cdadf4ea[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: bcataldo3 <benjamin.cataldoascui@gmail.com>
+Date:   Tue Jul 18 14:19:56 2023 -0400
+
+    agregamos archivo hola.py
+
+[33mcommit f5d8760251871c4fa201d3b4bbe931feba84c5cb[m
+Author: bcataldo3 <benjamin.cataldoascui@gmail.com>
+Date:   Sat Jul 15 08:59:16 2023 -0400
+
+    este es un nuevo commit
+
+[33mcommit cb92dc782b4998877454717d5b24ec8406b473ec[m
+Author: bcataldo3 <benjamin.cataldoascui@gmail.com>
+Date:   Fri Jul 14 19:18:14 2023 -0400
+
+    varios cambios realizados 2
+
+[33mcommit e34879d287100f0389aa385baacd696e2e668b01[m
+Author: bcataldo3 <benjamin.cataldoascui@gmail.com>
+Date:   Fri Jul 14 19:17:03 2023 -0400
+
+    varios cambios realizados
+
+[33mcommit bd0af78b04eec92fd17681343f11b8ed4c3bbc35[m
+Author: bcataldo3 <benjamin.cataldoascui@gmail.com>
+Date:   Fri Jul 14 19:04:13 2023 -0400
+
+    ajhfakfhs
+
+[33mcommit 1c8b0160d6d303d2b4d8f8697cc5132f2d06d243[m
+Author: bcataldo3 <benjamin.cataldoascui@gmail.com>
+Date:   Fri Jul 14 18:42:48 2023 -0400
+
+    Este es mi primer commit
